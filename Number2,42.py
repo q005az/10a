@@ -1,0 +1,8 @@
+print("ведите пять целых чисел")
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+l=int(input())
+m = max(a,b,c,d,l)
+print(m)
